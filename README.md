@@ -23,11 +23,19 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 ## Exercices
 
+The only requirement is to spend maximum 2 hours to do the 3 exercices.
+
+This is probably not enough time to code a product ready for release, you may address the different parts with different levels of details.
+
+We will discuss together what you could have done with more time during the interview.
+
 We are particularly keen on:
 - readability and robustness of the code
 - sound architecture
+- tests
 - use of React framework
 - use of standards and accessibility
+ 
 
 ### 1. Create a page to display the pieces of news in news.json
 
@@ -35,4 +43,5 @@ We are particularly keen on:
 
 ### 3. Add a page with a form to create a piece of news
 You do not need to actually save it, just create the placeholder for the function to store it,
-and log the piece of news in the console.
+and log the piece of news in the console. 
+Do not handle image upload, only title and description.
