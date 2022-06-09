@@ -25,15 +25,18 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The only requirement is to spend maximum 2 hours to do the 3 exercices.
 
-This is probably not enough time to code a product ready for release, you may address the different parts with different levels of details.
+This is not enough time to code a product ready for release, you may address the different parts with different levels of details.
+
+You don't need to design the interface. 
+Just apply the minimum of css styles to the elements so that their function is understandable.
 
 We will discuss together what you could have done with more time during the interview.
 
+
 We are particularly keen on:
 - readability and robustness of the code
-- sound architecture
 - tests
-- use of React framework
+- code architecture and use of React framework
 - use of standards and accessibility
  
 
