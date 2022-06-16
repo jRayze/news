@@ -45,6 +45,5 @@ We are particularly keen on:
 ### 2. Add dropdown fields to filter by category and date
 
 ### 3. Add a page with a form to create a piece of news
-You do not need to actually save it, just create the placeholder for the function to store it,
-and log the piece of news in the console. 
-Do not handle image upload, only title and description.
+You do not need to actually store the content of the form, just create a placeholder function that logs the piece of news in the console. 
+The form does not have to handle images.
